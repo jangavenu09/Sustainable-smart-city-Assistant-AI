@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+gradio
+transformers
+torch
+pandas
+numpy
+scikit-learn
+python-multipart
+nest-asyncio
+pyngrok
+python-dotenv
+pydantic
