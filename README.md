@@ -14,8 +14,3 @@ This is an AI-powered assistant for urban sustainability and governance. It supp
 - Gradio for interactive frontend
 - IBM Granite LLM for natural language understanding
 - Scikit-learn for forecasting and anomaly detection
-
-## 💡 Run It Locally
-```bash
-pip install -r requirements.txt
-python sustainable_development_ai.py
